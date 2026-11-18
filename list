@@ -1,6 +1,12 @@
-0.0.0.0 gvt1.com
-0.0.0.0 gvt2.com
-0.0.0.0 update.googleapis.com
-0.0.0.0 dl.google.com
-0.0.0.0 android.googleapis.com
-0.0.0.0 play.googleapis.com
+!0.0.0.0 gvt1.com
+!0.0.0.0 gvt2.com
+!0.0.0.0 update.googleapis.com
+!0.0.0.0 dl.google.com
+!0.0.0.0 android.googleapis.com
+!0.0.0.0 play.googleapis.com
+||gvt1.com^$document
+||gvt2.com^$document
+||update.googleapis.com^$document
+||dl.google.com^$document
+||android.googleapis.com^$document
+||play.googleapis.com^$document
